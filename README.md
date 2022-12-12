@@ -1,0 +1,2 @@
+# JavaTrash
+Try pure java
